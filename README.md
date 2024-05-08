@@ -12,6 +12,8 @@ Twitter is a valuable source of data for sentiment analysis. This project focuse
 - **Hadoop Clusters (HDFS)**: Stores the scraped Twitter data in Hadoop Distributed File System (HDFS), enabling distributed storage and processing.
 - **PySpark**: Processes the Twitter data stored in HDFS using PySpark.
 
+<a href="https://ibb.co/NyrbXkJ"><img src="https://i.ibb.co/FDXC9fy/image.png" alt="image" border="0"></a>
+
 ## Requirements
 
 - Python 3.x
